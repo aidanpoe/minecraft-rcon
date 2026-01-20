@@ -1,6 +1,6 @@
 # House of Poe - Minecraft RCON Control Panel
 
-A powerful, stylish Windows desktop application for managing your Minecraft server via RCON. Built with Python and featuring a sleek BHOP-inspired dark theme.
+A powerful, stylish Windows desktop application for managing your Minecraft server via RCON. Built with Python and featuring a sleek House of Poe dark-gold theme.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
